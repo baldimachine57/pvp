@@ -1,0 +1,4 @@
+name: PvpDrop
+version: 1.0
+main: com.example.pvpdrop.PvpDropPlugin
+api-version: "1.21"
